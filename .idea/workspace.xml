@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f02b96b-6245-4847-b4a4-acb72e16ceaf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7f02b96b-6245-4847-b4a4-acb72e16ceaf" name="Changes" comment="3rd update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +38,16 @@
       <option name="presentableId" value="Default" />
       <updated>1670958644359</updated>
       <workItem from="1670958646055" duration="48000" />
-      <workItem from="1670958743696" duration="55000" />
+      <workItem from="1670958743696" duration="107000" />
     </task>
+    <task id="LOCAL-00001" summary="3rd update">
+      <created>1670958814388</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670958814388</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,5 +63,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3rd update" />
+    <option name="LAST_COMMIT_MESSAGE" value="3rd update" />
   </component>
 </project>
